@@ -15,7 +15,7 @@ export default defineNuxtConfig({
   // ===========================
   // 2) CSR GLOBAL (SPA para toda la app)
   // -> Descomenta esta línea:
-   ssr: false,
+  // ssr: false,
   // ===========================
 
 
